@@ -1,0 +1,9 @@
+$font-stack:    Helvetica, sans-serif;
+$primary-color: #3037a6;
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+  background-color: rgba(28, 112, 158, 0.42);
+}
+

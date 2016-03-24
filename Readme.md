@@ -1,0 +1,1 @@
+Sample project integrating bower, gulp-uglify, gulp-rename, browser-sync, gulp-ruby-sass, gulp-autoprefixer, gulp-cssnano, gulp-concat, ngrok, gulp-bower using gulp
