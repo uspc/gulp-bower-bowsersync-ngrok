@@ -6,7 +6,8 @@ Prerequest
 2. Install ruby sass - $gem install sass
 Run steps
 1. bring the code base to your local system - $git clone https://github.com/uspc/gulp-bower-bowsersync-ngrok.git
-2. run gulp in the foler where gulpfile.js exists - $gulp
+2. install project npm modules from folder containing package.json - $npm install
+3. run gulp in the foler where gulpfile.js exists - $gulp
 
 Results
 1. Installs npm module based on package.json into node_modules 
